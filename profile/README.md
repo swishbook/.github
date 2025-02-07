@@ -1,4 +1,4 @@
-## Hi there 👋
+[swishbook](https://www.swishbook.com/) is under active development. Stay up to date on our progress towards an alpha launch by signing up for our [newsletter](https://swishbook.beehiiv.com/).
 
 <!--
 
